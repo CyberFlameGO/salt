@@ -93,7 +93,7 @@ tempora==1.14.1
     # via portend
 timelib==0.2.5
     # via -r requirements/static/pkg/linux.in
-urllib3==1.26.6
+urllib3==1.26.17
     # via requests
 zc.lockfile==1.4
     # via cherrypy
